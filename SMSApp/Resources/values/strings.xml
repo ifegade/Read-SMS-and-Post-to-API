@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-    <string name="app_name">SMSApp</string>
+    <string name="app_name">SMS to Endpoint App</string>
     <string name="action_settings">Settings</string>
+    <string name="lastMessageReceived">Last Message Received At</string>
+    <string name="lastMessageSent">Last Message Sent At</string>
+    <string name="totalMessageSent">Total Message Sent Today</string>
+    <string name="sendPreviousMessage">Send Previous Messages</string>
 </resources>
